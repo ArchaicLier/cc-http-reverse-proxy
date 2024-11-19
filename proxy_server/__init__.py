@@ -1,1 +1,1 @@
-"""HTTP proxy server for computer craft"""
+"""HTTP proxy server for computercraft."""
